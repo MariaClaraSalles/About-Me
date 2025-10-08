@@ -2,9 +2,10 @@
 Este é um repositório que fala um pouco sobre mim.
 
 ## Quem sou eu?
-Me chamo Maria Clara Mousinho de Salles, tenho 19 anos e sou moradora da Baixada Fluminense. Sou estudante de ciências da computação em uma universidade federal do Rio de Janeiro. 
+Me chamo Maria Clara Mousinho de Salles, tenho 19 anos e sou moradora da Baixada Fluminense. Sou estudante de ciências da computação em uma universidade federal do Rio de Janeiro.
+
 **Hobbies:**
--  Crochê; 
+- Crochê; 
 - Ler mangás;
 - Ler livros;
 - Assistir doramas;
